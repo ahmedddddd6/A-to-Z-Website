@@ -1,0 +1,15 @@
+<section id="contact" style="padding: 80px 20px; max-width: 600px; margin: 0 auto; text-align: left;">
+    <h2 style="text-align: center; color: var(--primary);">Request a Secure Quote</h2>
+    <form style="display: flex; flex-direction: column; gap: 15px;">
+        <input type="text" placeholder="Your Name" style="padding: 12px; border-radius: 8px; border: 1px solid #334155; background: #1e293b; color: white;">
+        <input type="email" placeholder="Your Email" style="padding: 12px; border-radius: 8px; border: 1px solid #334155; background: #1e293b; color: white;">
+        <select style="padding: 12px; border-radius: 8px; border: 1px solid #334155; background: #1e293b; color: white;">
+            <option>Select Service</option>
+            <option>Software Development</option>
+            <option>Cybersecurity</option>
+            <option>Managed Services</option>
+        </select>
+        <textarea placeholder="Tell us about your project..." rows="5" style="padding: 12px; border-radius: 8px; border: 1px solid #334155; background: #1e293b; color: white;"></textarea>
+        <button type="submit" class="btn" style="width: 100%; border: none; cursor: pointer;">Send Message</button>
+    </form>
+</section>
