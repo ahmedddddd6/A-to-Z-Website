@@ -1,0 +1,3 @@
+git add .                                      
+git commit -m "Update the web and add the logo" 
+git push origin main 
